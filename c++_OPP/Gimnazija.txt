@@ -1,0 +1,7 @@
+Naziv škole: GIMNAZIJA MOSTAR
+Ime ucenika: Jasmin Azemovic
+Broj telefona ucenika+387(61)111-222
+Ime ucenika: Adel Handzic
+Broj telefona ucenika+387(61)333-444
+Ime ucenika: Telefon NotValidFormat
+Broj telefona ucenikaNOT_SET
