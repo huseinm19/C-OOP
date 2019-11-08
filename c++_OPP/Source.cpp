@@ -690,7 +690,7 @@ int main() {
 
 
 
-
+	//c++_opp//
 	system("pause>0");
 
 	return 0;
